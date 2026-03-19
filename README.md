@@ -1,6 +1,6 @@
 # Salut! 👋 Sunt Pilat David Sebastian
 
-Student în anul 3 la **Telecomunicații și Sisteme de Transmisiune (TST)**. 
+Student în anul 3 la **Telecomunicații și Sisteme de Telecomunicatii (TST)**. 
 Sunt pasionat de rețelistică, programare și sisteme încorporate (IoT), cybersecurity.
 
 ---
